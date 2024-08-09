@@ -24,4 +24,5 @@
 ### Links
 
 [DOC do Scryfall](https://scryfall.com/docs/api)
+
 [Link para a documentação](https://docs.magicthegathering.io/#documentationrate_limits)
